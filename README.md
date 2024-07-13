@@ -1,36 +1,30 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## Hospital Management System
 
-## Getting Started
+<img width="1800" alt="347042676-a7dd73b6-93de-484d-84e0-e7f4e299167b" src="https://github.com/user-attachments/assets/d71b780b-bc1b-48b9-82c7-1f198759e510">
 
-First, run the development server:
+# Introduction
+Welcome to the Hospital Management System! This application is designed to streamline hospital operations by managing patient information, appointments, billing, and more.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Features
+• Patient Management: Register and manage patient records.
+• Appointment Scheduling: Schedule and manage appointments with doctors.
+• Billing: Generate and manage patient billing information.
+• Notifications: Send SMS notifications to patients using Twilio.
+• Admin Panel: Access administrative functionalities with special permissions.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Technologies Used
+• Appwrite: Backend services for authentication, database, storage, and more.
+• TypeScript: Static type checking for JavaScript.
+• Next.js: React framework for server-side rendering and static site generation.
+• React: Front-end library for building user interfaces.
+• Reusable Components: Modular and reusable components for a scalable codebase.
+• Tailwind CSS: Utility-first CSS framework for styling.
+• ShadCN: Customizable UI components built with Tailwind CSS.
+• Twilio: SMS API for sending notifications.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+## Admin Access
+To access the admin panel, use the following credentials:
 
-## Learn More
+• OTP: 123456
 
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
