@@ -3,15 +3,13 @@
 <img width="1800" alt="347042676-a7dd73b6-93de-484d-84e0-e7f4e299167b" src="https://github.com/user-attachments/assets/d71b780b-bc1b-48b9-82c7-1f198759e510">
 
 # Introduction
-Welcome to the Hospital Management System! This application is designed to streamline hospital operations by managing patient information, appointments, billing, and more.
+Welcome to the Hospital Management System! This application is designed to streamline hospital operations by managing patient information, appointments, admin and more.
 
 
 ## Features
 • Patient Management: Register and manage patient records.
 
 • Appointment Scheduling: Schedule and manage appointments with doctors.
-
-• Billing: Generate and manage patient billing information.
 
 • Notifications: Send SMS notifications to patients using Twilio.
 
