@@ -8,19 +8,30 @@ Welcome to the Hospital Management System! This application is designed to strea
 
 ## Features
 • Patient Management: Register and manage patient records.
+
 • Appointment Scheduling: Schedule and manage appointments with doctors.
+
 • Billing: Generate and manage patient billing information.
+
 • Notifications: Send SMS notifications to patients using Twilio.
+
 • Admin Panel: Access administrative functionalities with special permissions.
 
 ## Technologies Used
 • Appwrite: Backend services for authentication, database, storage, and more.
+
 • TypeScript: Static type checking for JavaScript.
+
 • Next.js: React framework for server-side rendering and static site generation.
+
 • React: Front-end library for building user interfaces.
+
 • Reusable Components: Modular and reusable components for a scalable codebase.
+
 • Tailwind CSS: Utility-first CSS framework for styling.
+
 • ShadCN: Customizable UI components built with Tailwind CSS.
+
 • Twilio: SMS API for sending notifications.
 
 ## Admin Access
